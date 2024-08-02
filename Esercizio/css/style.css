@@ -59,6 +59,7 @@ footer{
     background-color: #259DBE ;
     padding: 60px 24px 60px 24px;
     text-align: center;
+    font-weight: 300;
 }
 li{
     list-style-type: none;
@@ -143,8 +144,9 @@ footer i{
     height: 240px;
 }
 .content-card{
-    padding-block: 32px;
-    padding-inline: 23px;
+    padding-block: 24px;
+    padding-inline: 20px;
+    font-weight: 350;
 }
 .content-card p{
     margin-bottom: 16px;
