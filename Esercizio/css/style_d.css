@@ -67,8 +67,9 @@ li{
 hr{
     width: 200px;
     padding: 0;
-    margin: 24px auto;
+    margin-block: 20px;
     border: solid 0.1px #dee1e3;
+    display: inline-block;
 }
 cite{
     font-size: 24px;
@@ -180,4 +181,9 @@ section div{
 .card_container{
     text-align: center;
     padding: 50px 24px;
+}
+.contattaci{
+    text-align: left;
+    margin: 0 auto;
+    width: 300px;
 }
